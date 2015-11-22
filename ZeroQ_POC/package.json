@@ -1,0 +1,15 @@
+{
+	 "name": "ZeroQ_POC"
+	,"version": "0.0.0"
+	,"description": "First hand development cycle"
+	,"dependencies": {
+			"hapi": "~10.4.1",
+			"hapi-auth-cookie":"~3.1.0",
+			"hapi-locale":"~1.0.0",
+			"hapi-auth-bearer-token": "~3.1.1",
+    			"hapi-swagger": "~2.1.0",
+			"mongodb":"~2.0.0",
+			"mongoose":"~4.2.0",
+			"glue":"~2.3.0"
+			}
+}
